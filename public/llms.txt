@@ -48,7 +48,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: winstonjame008@gmail.com
+- Phone: +1 (683) 333-1772
+- Phone (tel): tel:+16833331772
+- Address: y, h, u, 6738, USA
 
 ### Contact form
 - URL: https://example.com/contact
