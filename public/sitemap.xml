@@ -1,55 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://winston-james-ragdoll-for-adoption-9fdd0259.zappy5.app</loc>
+    <loc>https://example.com</loc>
     <lastmod>2026-06-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://winston-james-ragdoll-for-adoption-9fdd0259.zappy5.app/available-kittens</loc>
+    <loc>https://example.com/available-kittens</loc>
     <lastmod>2026-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://winston-james-ragdoll-for-adoption-9fdd0259.zappy5.app/about-us</loc>
+    <loc>https://example.com/about-us</loc>
     <lastmod>2026-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://winston-james-ragdoll-for-adoption-9fdd0259.zappy5.app/adoption-process</loc>
+    <loc>https://example.com/adoption-process</loc>
     <lastmod>2026-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://winston-james-ragdoll-for-adoption-9fdd0259.zappy5.app/health-guarantee-reviews</loc>
+    <loc>https://example.com/health-guarantee-reviews</loc>
     <lastmod>2026-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://winston-james-ragdoll-for-adoption-9fdd0259.zappy5.app/contact</loc>
+    <loc>https://example.com/contact</loc>
     <lastmod>2026-06-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://winston-james-ragdoll-for-adoption-9fdd0259.zappy5.app/privacy</loc>
-    <lastmod>2026-06-09</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://winston-james-ragdoll-for-adoption-9fdd0259.zappy5.app/terms</loc>
+    <loc>https://example.com/privacy</loc>
     <lastmod>2026-06-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://winston-james-ragdoll-for-adoption-9fdd0259.zappy5.app/accessibility</loc>
+    <loc>https://example.com/terms</loc>
+    <lastmod>2026-06-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://example.com/accessibility</loc>
     <lastmod>2026-06-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
