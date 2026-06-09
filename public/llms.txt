@@ -7,41 +7,41 @@
 ## Pages
 
 ### Home
-https://example.com
+https://winston-james-ragdoll-for-adop.zappy5.app
 Discover healthy, blue-eyed Ragdoll kittens raised with love. Join 500+ happy families and bring home a vaccinated, socialized companion today.
 
 ### Available Kittens
-https://example.com/available-kittens
+https://winston-james-ragdoll-for-adop.zappy5.app/available-kittens
 Browse our current litter of playful, affectionate Ragdoll kittens. Each comes health-checked and vaccinated. Reserve your perfect blue-eyed friend now.
 
 ### About Us
-https://example.com/about-us
+https://winston-james-ragdoll-for-adop.zappy5.app/about-us
 Learn how our family-run home nurtures every Ragdoll kitten with warmth and expert care. Health, trust, and love define our breeding philosophy.
 
 ### Adoption Process
-https://example.com/adoption-process
+https://winston-james-ragdoll-for-adop.zappy5.app/adoption-process
 Our seamless adoption process guides you from reservation to welcome day. Expect transparency, support, and a lifetime of purrs with your new companion.
 
 ### Health Guarantee & Reviews
-https://example.com/health-guarantee-reviews
+https://winston-james-ragdoll-for-adop.zappy5.app/health-guarantee-reviews
 Read 500+ glowing testimonials and explore our health guarantee. Every Ragdoll kitten arrives vaccinated, vet-checked, and backed by lifelong support.
 
 ### Contact & Reservation
-https://example.com/contact
+https://winston-james-ragdoll-for-adop.zappy5.app/contact
 Ready to adopt? Contact us to ask questions or secure your Ragdoll kitten. We&#39;re here to help you find the perfect affectionate addition to your family.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://winston-james-ragdoll-for-adop.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://winston-james-ragdoll-for-adop.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://winston-james-ragdoll-for-adop.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -54,8 +54,8 @@ Information about WCAG compliance and accessibility features.
 - Address: y, h, u, 6738, USA
 
 ### Contact form
-- URL: https://example.com/contact
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://winston-james-ragdoll-for-adop.zappy5.app/contact
+- Endpoint: https://winston-james-ragdoll-for-adop.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -95,6 +95,6 @@ Pet Adoption / Animal Breeding
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://winston-james-ragdoll-for-adop.zappy5.app/sitemap.xml
+- Robots: https://winston-james-ragdoll-for-adop.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://winston-james-ragdoll-for-adop.zappy5.app/llms-full.txt
